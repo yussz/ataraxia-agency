@@ -1,0 +1,42 @@
+
+
+:root {
+  --tan:#F7F3F0;
+  --lightTan:#f0eff1;
+ 
+  --lexend: 'Lexend', sans-serif;
+  --darkGrey:#171614;
+  --orange:#ea4f1b;
+
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: var(--poppins);
+}
+body {
+background-color: var(--darkGrey);
+overflow: hidden;
+
+
+}
+
+/* width */
+::-webkit-scrollbar {
+  width:0.5rem;
+ 
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: var(--darkGrey);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: pink;
+}
+
+
+ 

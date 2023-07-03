@@ -1,0 +1,11 @@
+.form_response {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+    height: 100vh;
+text-align: center;
+padding: 1rem;
+color: white;
+}
