@@ -28,5 +28,10 @@ margin: 0rem 0rem 1rem 0rem;
     .banner {
         width: 100%;
         height: 10rem;
+     
+    }
+    .button {
+        width:8rem;
+        height:8rem;
     }
 }
