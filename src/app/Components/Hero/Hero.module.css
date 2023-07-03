@@ -133,6 +133,7 @@
         padding: 1rem;
         text-align: center;
         z-index: 1;
+        width: 90%;
     }
     .letters {
         font-size: 3rem;
