@@ -153,6 +153,7 @@
         }
         .title_input {
             align-items: center;
+            text-align: center;
         }
         .form_component input {
             text-align: center;
@@ -166,12 +167,15 @@
         .title_input select {
             width: 100%;
         }
+        .form_questions {
+            width: 80%;
+        }
+        .circle {
+            display: none;
+        }
+         
+      
    }
-   .circle {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
- 
+
    
   

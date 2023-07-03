@@ -82,8 +82,8 @@ const MenuItem= ({number,title}) => {
                     <Link href='#contact'><MenuItem number={"(003)"} title={"contact"}/></Link>
                  
                     </div>
-                    <div className={styles.socials}>
-                        <h3>contact@ataraxiadesign.com</h3>
+                    <div className={styles.email}>
+                        <p>contact@ataraxiadesign.com</p>
                     </div>
                 </div>
 

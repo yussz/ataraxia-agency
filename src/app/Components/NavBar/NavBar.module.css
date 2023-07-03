@@ -82,11 +82,12 @@
 .menu h3 {
     font-size: 2rem;
 }
-.socials {
+.email {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 4rem;
+    font-weight: 700;
 }
 
 @media screen and (width<=1200px) {
